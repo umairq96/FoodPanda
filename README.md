@@ -4,6 +4,7 @@ A mock food delivery website/app which allows users to explore the menu with dif
 
 This app simulates services such as GrubHub or UberEats.
 
+## Demo
 ![](https://github.com/umairq96/FoodPanda/blob/main/frontend/docs/v1.gif)
 
 
