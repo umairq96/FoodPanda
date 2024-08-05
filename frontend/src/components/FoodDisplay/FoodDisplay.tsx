@@ -7,7 +7,6 @@ type FoodDisplayProps = {
   category: string;
 };
 
-
 const FoodDisplay:React.FC<FoodDisplayProps> = ({category}) => {
 
   const context = useContext(StoreContext);
