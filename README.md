@@ -10,5 +10,5 @@ This app simulates services such as GrubHub or UberEats.
 
 ### Notes
 - Frontend was built using React JS
-- Backend is a work in progress (static data for now)
+- Backend was built using Node.js and Express.js (web framework that works on top of Node.js web server)
 - Inspiration and tutorial taken from https://greatstack.dev/
